@@ -33,4 +33,7 @@ Api Tests (3) ------------------------------------------------------------------
 - [x] TestErrorFormationCest: Test error api (0.26s)
 - [x] TestFormationCest: Test formation id (0.90s)
 
-Good Luck !!!
+
+# HELP ME !!!!
+
+- [la commande "php vendor/bin/codecept run" ne marche pas sous windows](https://github.com/bfoujols/tp-csi-api-testing/wiki/La-commande-%22php-vendor-bin-codecept-run%22-ne-marche-pas-sous-windows)
